@@ -1,3 +1,3 @@
-# MYWORK
+# MYCODE
 code reproduce
-使用多种常见的模型完成图像识别任务，含有tensorflow、pytorch代码
+The classic network code reproduced during my master's degree, as well as the test code of my thesis, may still have imperfect parts, but they can ensure normal operation.
